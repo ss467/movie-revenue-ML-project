@@ -1,4 +1,4 @@
-# movie-revenue-ML-project
+# Movie-Revenue-ML-project
 
 I am Glad to announce that this is my first Machine learning and data science project, this project calculates certain movie worldwide BOX-OFFICE-GROSS.
 
